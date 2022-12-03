@@ -1,0 +1,1 @@
+DEFINE TEMP-TABLE ttPlayer NO-UNDO LIKE Player BEFORE-TABLE bttplayer.
